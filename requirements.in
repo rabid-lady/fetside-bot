@@ -1,0 +1,3 @@
+# to generate requirements.in: pip install pip-tools ; pip-compile
+# to upgrade deps: pip-compile --upgrade
+requests
